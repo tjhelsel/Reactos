@@ -124,7 +124,7 @@ const breadthFirst = (startingNode, callback) => {
 };
 ```
 
-The callback parameter in the solution above is the function that you are performing on each node as you traverse the tree. What the function does is not really important; the important thing is that the interviewee invokes the callback function on each node, and in the correct order.
+The 'callback' is the function that you are performing on each node as you traverse the tree. What the function does is not really important; the important thing is that the interviewee invokes the callbackon each node, and in the correct order.
 
 ---
 
