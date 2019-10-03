@@ -1,6 +1,6 @@
 # Prompt
 
-Given a target sum and an array of positive integers, return true if any combination of numbers in the array can add to the target. Each number in the array may only be used once. Return false if the numbers cannot be used to add to the target sum.
+Given a target sum and an array of positive integers, return true if any combination of numbers in the array can add up to the target. Each number in the array may only be used once. Return false if the numbers cannot be used to add to the target sum.
 
 # Examples
 
