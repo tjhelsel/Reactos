@@ -44,7 +44,7 @@ console.log(member3);
 console.log('After adding member4: ');
 const member4 = member3('Jamal');
 console.log(member4);
-//prints [Function]
+//prints result: 'Your team is Erica, Dan, Wendy, and Jamal'
 
 console.log('When passing in 4 params one at a time:');
 console.log(curried('Erica')('Dan')('Wendy')('Jamal'));
