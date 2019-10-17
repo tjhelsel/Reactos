@@ -1,6 +1,6 @@
 const curry = func => {
-  //get all arguments passed into original function
   console.log('Parameters expected: ', func.length);
+  //get all arguments passed into original function
   return (...args) => {
     //if enough arguments are passed in to 'complete' the original
     //function, just return and invoke the original function with passed
